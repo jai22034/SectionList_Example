@@ -1,0 +1,3 @@
+rootProject.name = 'Sectionlist'
+
+include ':app'
